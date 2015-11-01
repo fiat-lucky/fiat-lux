@@ -1,4 +1,4 @@
 fiat-lux
 ========
 
-githubpage for fotogwoofy
+githubpage for chicalote
